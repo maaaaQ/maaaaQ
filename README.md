@@ -1,6 +1,3 @@
-
-# Привет. Я начинающий Python разработчик. Активно работаю над улучшением своих навыков и изучением различных фреймворков и библиотек Python. Я открыт к сотрудничеству и готов принять участие в интересных проектах. Буду рад советам и помощи опытных разработчиков.
-
 # Языки и инструменты
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ebdf07)
 ![Django](https://img.shields.io/badge/django-090909?style=for-the-badge&logo=django&logoColor=10c449)
